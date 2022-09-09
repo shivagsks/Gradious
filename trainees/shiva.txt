@@ -1,0 +1,14 @@
+this is shiva
+
+this is my git file
+eof
+>>EOF
+eof
+EOF
+EXIT
+.
+>
+
+
+
+
